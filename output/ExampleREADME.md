@@ -36,7 +36,7 @@ This is a test on how the Usage will be displayed.
     
 [Click Here to View a Demo.](Insert link to your demo here!)
     
-## Contributors
+## Contributing
     
 This is a test on how the Contribute will be displayed.
     

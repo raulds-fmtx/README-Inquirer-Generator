@@ -108,7 +108,7 @@ function generateMarkdown(data) {
     \n${includeLink}
     \n* [Installation](#Installation)
     \n* [Usage](#Usage)
-    \n* [Contributors](#Contributors)
+    \n* [Contributing](#Contributing)
     \n* [Tests](#Tests)
     \n* [License](#License)
     \n* [Author](#Author)
@@ -118,7 +118,7 @@ function generateMarkdown(data) {
     \n## Usage
     \n${data.usage}
     \n${demoLink}
-    \n## Contributors
+    \n## Contributing
     \n${data.contributing}
     \n## Tests
     \n${data.tests}

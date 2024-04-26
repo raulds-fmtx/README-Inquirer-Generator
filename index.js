@@ -63,10 +63,10 @@ const questions = [
     name: "usage",
   },
   {
-    // Get project contributors
+    // Get project contributing
     type: "input",
     message:
-      "Provide guidelines on how other developers can contribute to your project, and list contributions made by others.",
+      "Provide guidelines on how other developers can contribute to your project.",
     name: "contributing",
   },
   {
